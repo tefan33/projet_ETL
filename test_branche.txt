@@ -6,3 +6,7 @@ Pour le faire on doit suivre ces étapes:
 - On ajoute les nouveaux fichiers via git add (il faut avoir ajouté un fichier avant)
 - On commit les nouveaux fichier : git commi -m 'texte'
 - On envoie les données sur le github : git push --set--upstream origin <nouveau nom>
+
+
+
+pour récupérer les données mises à jour depuis le GitHub il faut juste faire un : git pull
