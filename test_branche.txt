@@ -1,1 +1,8 @@
-on teste
+on teste l'ajout d'une nouvelle branche. 
+Pour le faire on doit suivre ces étapes:
+- Créer la nouvelle branche : git branch <nouveau nom>
+- se positionner dans cette nouvelle branche : git checkout <nouveau nom>
+- ajouter cette nouvelle branche sur le github : git push origin <nouveau nom>
+- On ajoute les nouveaux fichiers via git add (il faut avoir ajouté un fichier avant)
+- On commit les nouveaux fichier : git commi -m 'texte'
+- On envoie les données sur le github : git push --set--upstream origin <nouveau nom>
